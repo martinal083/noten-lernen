@@ -1,6 +1,6 @@
 {
   "name": "noten-lernen",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "Learn to read sheet music",
   "main": "src/index.js",
   "scripts": {
